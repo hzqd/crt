@@ -1,0 +1,10 @@
+[package]
+name = "crt"
+version = "0.0.0"
+description = "Card Record Tool"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+aoko = "0.3.0-alpha.28"
+itertools = "0.13.0"
